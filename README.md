@@ -1,20 +1,19 @@
 
-# Project Name
+# Password Generator
 
-Brief description or tagline of your project.
+For this project I was tasked to create a functioning password generator using JavaScript to allow users that interact, to create a password ranging from 8 to 128 characters, using lowercase and uppercase letters, numbers and special characters! I hope this deployed site can be useful to many users, and I will more than likely use it myself!
 
 ## Table of Contents
 
-[Project Name](#project-name)
-[Table of Contents](#table-of-contents)
-[Description](#description)
-[Installation](#installation)
-[Usage](#usage)
-[Features](#features)
-[Contributing](#contributing)
-[License](#license)
-[Acknowledgments](#acknowledgments)
+- [Password Generator](#password-generator)
+- [Description](#description)
 
 ## Description
 
-Provide a more detailed description of your project. Explain what it does, why it's useful, and any other important context. You can also include screenshots or other media if applicable.
+As stated in the title this project is for users to create a random password based on their choices. This generator can help multiple users that struggle with creating a password that is secure!
+
+Link to deployed website
+
+
+Screenshot of the deployed website
+![passwordgen](https://github.com/AndresRey01/Password-Gen/assets/140764079/ccfe1942-4f31-4434-800e-fe2db2dd21d7)
