@@ -1,3 +1,4 @@
+// variable to give char. lenghts
 var characterLenght = 8;
 var choiceArr = [];
 // Added variables of different criteria for the password
@@ -27,7 +28,7 @@ function writePassword() {
   }
 
 }
-
+// used common for loop with i and math.floor to repeat
 function generatePassword() {
     var password = "";
     for(var i = 0; i < characterLenght; i++) {
@@ -36,12 +37,12 @@ function generatePassword() {
     }
     return password;
 }
-
+// this function grabs the choice arr varaible to collect all characters 
 function getPrompts() {
       choiceArr = [];
-
+// prompt that pops up when users click on generate password button
    characterLenght = parseInt(prompt("How many characters long for your new password? (8 - 128 characters")); //NaN
-
+// prompt alerting user that their password is unable to be generated or something went wrong
     if(isNaN(characterLenght) || characterLenght < 8 || characterLenght > 128) {  //Hoping this is all false
         alert("Character length has to be a number, 8 - 128 digits. Please try again.")
         return false;
