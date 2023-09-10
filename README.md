@@ -13,7 +13,7 @@ For this project I was tasked to create a functioning password generator using J
 As stated in the title this project is for users to create a random password based on their choices. This generator can help multiple users that struggle with creating a password that is secure!
 
 Link to deployed website
-
+https://andresrey01.github.io/Password-Gen/
 
 Screenshot of the deployed website
 ![passwordgen](https://github.com/AndresRey01/Password-Gen/assets/140764079/ccfe1942-4f31-4434-800e-fe2db2dd21d7)
